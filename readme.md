@@ -1,5 +1,6 @@
-A simple plugin for sharing status updates and links to social networks.  Easy fire and forget will post to user's installed accounts.  User leaves your app to complete the process, and is returned afterwards.
+#A simple plugin for sharing status updates and links to social networks.  Easy fire and forget will post to user's installed accounts.  User leaves your app to complete the process, and is returned afterwards.
 
+by [Mayur Panchal](http://www.excellentwebworld.com)
 
 To install using plugman
 ---
@@ -55,3 +56,5 @@ In your markup :
 
     <input style="display:block;margin:40px 0px" type="button" onclick="shareLink()" value="Share a Link"/>
     <input style="display:block;margin:40px 0px" type="button" onclick="shareStatus()" value="Update your Status"/>
+	
+[![Mayur Panchal](http://excellentwebworld.com/wp-content/uploads/2013/07/logo.png)](http://www.excellentwebworld.com/ "Blogging")
