@@ -1,4 +1,4 @@
-#A simple plugin for sharing status updates and links to social networks.  Easy fire and forget will post to user's installed accounts.  User leaves your app to complete the process, and is returned afterwards.
+#A PhoneGap Social Sharing plugin for Windows
 
 by [Mayur Panchal](http://www.excellentwebworld.com)
 
